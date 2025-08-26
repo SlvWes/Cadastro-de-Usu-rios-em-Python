@@ -41,7 +41,8 @@ sistema-cadastro-python/
 ├── cadastro.py    # Código principal do sistema
 ├── Nome.txt           # Arquivo de armazenamento de dados (gerado automaticamente)
 ├── Email.txt
-└── CPF.txt
+├── CPF.txt
+└── README.md              # Documentação do projeto
 ```
 
 ## 📸 Demonstração
