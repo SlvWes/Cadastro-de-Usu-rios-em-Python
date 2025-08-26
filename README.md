@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Funcionando-green)
+![Mit](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Este projeto é uma aplicação de linha de comando em Python que permite cadastrar usuários, armazenando nome, email e CPF em arquivos `.txt`. Possui um menu interativo colorido, tornando a experiência mais intuitiva e agradável no terminal. É ideal para quem deseja praticar Python, manipulação de arquivos e criação de menus interativos simples.
 
